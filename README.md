@@ -1,6 +1,6 @@
 # Project 1
 
-**Title:** BMW SALES RECORD 
+**Title:** [BMW SALES RECORD]( https://github.com/Olalekan3/Olalekan3.github.oi/blob/main/BMW%20SALES%20RECORD.xlsx)
 
 **Tools Used:** MICROSOFT EXCEL( Pivot Tables, Charts, Slicers and Conditional Formatting)
 
@@ -23,7 +23,7 @@
 
 # Project 2
 
-**Title:** COFFEE SALES RECORD
+**Title:** [COFFEE SALES RECORD](https://github.com/Olalekan3/Olalekan3.github.oi/blob/main/COFFEE%20SALES%20RECORD.xlsx)
 
 **Tools Used:** MICROSOFT EXCEL( Pivot Tables, Charts, Timelines, Slicers and Conditional Formatting)  
 
