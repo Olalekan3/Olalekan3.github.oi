@@ -21,7 +21,7 @@
 ![Screenshot_BMW.png](Screenshot_BMW.png)
 
 
-# Project 2
+
 
 **Title:** [COFFEE SALES RECORD](https://github.com/Olalekan3/Olalekan3.github.oi/blob/main/COFFEE%20SALES%20RECORD.xlsx)
 
@@ -46,7 +46,7 @@
 ![Screenshot_Coffee.png](Screenshot_Coffee.png)
 
 
-# Project 3
+# Project 2
 
 **Title:** LOAN APPROVAL REPORT
 
@@ -69,7 +69,7 @@
 ![Screenshot_Loan.png](Screenshot_Loan.png)
 
 
-# Project 4
+
 
 **Title:** STUDENT EXAMINATION PERFORMANCE REPORT
 
