@@ -21,7 +21,7 @@
 ![Screenshot_BMW.png](Screenshot_BMW.png)
 
 
-
+# Project 2
 
 **Title:** [COFFEE SALES RECORD](https://github.com/Olalekan3/Olalekan3.github.oi/blob/main/COFFEE%20SALES%20RECORD.xlsx)
 
@@ -46,7 +46,7 @@
 ![Screenshot_Coffee.png](Screenshot_Coffee.png)
 
 
-# Project 2
+# Project 3
 
 **Title:** LOAN APPROVAL REPORT
 
@@ -69,7 +69,7 @@
 ![Screenshot_Loan.png](Screenshot_Loan.png)
 
 
-
+# Project 4
 
 **Title:** STUDENT EXAMINATION PERFORMANCE REPORT
 
@@ -92,3 +92,81 @@
 **Dashboard Overview**
 
 ![Screenshot_Student.png](Screenshot_Student.png)
+
+
+# Project 5
+
+**Title:** FOOTBALL PLAYER DATA
+
+**SQL Code:** [HR Database-SQL Codes](https://github.com/Olalekan3/Olalekan3.github.oi/blob/main/Football.SQL)
+
+**SQL Skills Used:** Use of functions like AVG, MAX, MIN, and COUNT.
+
+Use of GROUP BY, WHERE, and HAVING clauses.
+
+Used for comparative analysis e.g comparing a player's weight to the position average
+
+Used for complex ranking and team-wise percentage calculations i.e OVER PARTITION BY
+
+Use of functions like SUBSTRING_INDEX to extract the last name for group analysis.
+
+**Project Description:** This project involves the analysis of a football player dataset accessed from the [dbo].['Football Players Data$'] table. The primary goal is to leverage Structured Query Language to perform in-depth data exploration and reporting on player attributes.
+
+*Objectives:*
+
+*Basic Data Filtration and Retrieval:* To practice fundamental SELECT and WHERE clauses to isolate players based on simple criteria like Team and Position ('WR'), College ('Washington'), Age (<= 25), Experience ('R'), and Weight (> 250 )
+
+*Attribute Conversion and Calculation:* To perform calculations, such as converting player height from separate feet and inches columns into a single inch value, for accurate comparisons and aggregations.
+
+*Aggregate and Group Analysis:* To calculate summary statistics like average height per position (AVG and GROUP BY) and count the number of players grouped by Team and Experience Level.
+
+*Advanced Window Functions and Ranking:* To utilize advanced SQL concepts like Window Functions DENSE_RANK and PARTITION BY to rank players by age within their respective teams, and to calculate the percentage of players in each position per team.
+
+*Comparative Analysis:* To identify players whose attributes e.g height and weight are greater than the average of their peer group e.g players in their team and their position using JOIN clauses and subqueries.
+
+*Identification of Extremes:* To find players with the maximum weight and minimum height for each position, as well as the tallest and shortest players from each college.
+
+**Technology used:** SQL server
+
+# Project 6
+
+**Title:** EMPLOYEE DATA
+
+**SQL Code:** [HR Database-SQL Code](https://github.com/Olalekan3/Olalekan3.github.oi/blob/main/Employee.SQL)
+
+**SQL Skills Used:** CREATE DATABASE, CREATE TABLE
+
+INSERT INTO for populating initial data
+
+SELECT, FROM, WHERE, Comparison Operators (=, !=, <>), OR, AND, BETWEEN
+
+COUNT, MAX, MIN and AVG
+
+UNION for combining results from potentially multiple tables
+
+LIKE operator with wildcard characters (%, _)
+
+Arithmetic Operations (+) for calculating Total Salary
+
+DISTINCT for identifying unique project names
+
+**Project Description:** This project is a basic relational database setup and analysis focusing on core Employee Information.
+The main objective is to demonstrate the ability to create a simple database schema, populate it with data, and execute a series of fundamental SQL queries to extract business-critical information for reporting and operational needs.
+
+*Analytical Goals:*
+
+*Organizational Structure Analysis:* Identify employees working under a specific Manager ID in  question 1, 6 and 7.
+
+*Resource Allocation:* Determine the count of employees dedicated to a specific Project P1 and identify employees working on other projects question 3 and 8.
+
+*Compensation and Financial Analysis:* Calculate the maximum, minimum, and average salary question 4, find employees whose salary falls within a specific range question 5 and compute the total compensation Salary + Variable for each employee question 9.
+
+*Data Segmentation and Filtering:* Filter records based on multiple criteria simultaneously, such as location and reporting structure MANAGER_ID using AND and OR logic question 6 and 7.
+
+*Data Uniqueness and Set Combination:* Identify the unique set of projects question 2 and combine employee IDs from potentially different tables using the UNION operator question 11.
+
+**Technology used:** SQL server
+
+
+
+
